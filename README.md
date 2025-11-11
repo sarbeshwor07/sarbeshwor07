@@ -1,4 +1,4 @@
-![logo](https://github.com/Nike-dot/Nike-dot/blob/main/YouTube-Banner-Sarbeshwor-Singh-Developer-Coder-Youtube-Banner-07-09-2025_08_30_PM.png)
+![logo](https://github.com/sarbeshwor07/sarbeshwor07/blob/main/YouTube-Banner-Sarbeshwor-Singh-Developer-Coder-Youtube-Banner-07-09-2025_08_30_PM.png)
 <h1 align="center">Hi 👋, I'm Sarbeshwor Singh</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👨‍💻 All of my projects are available at [[https://nike-dot.github.io/Portfolio/](https://sarbeshwor07.github.io/Portfolio/)]
+- 👨‍💻 All of my projects are available at (https://sarbeshwor07.github.io/Portfolio/)]
 
 - 📫 How to reach me **sarbeshworsingh1@gmail.com**
 
