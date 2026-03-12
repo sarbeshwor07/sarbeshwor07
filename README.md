@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👨‍💻 All of my projects are available at (https://sarbeshwor07.github.io/Portfolio/)]
+- 👨‍💻 All of my projects are available at (https://sarbeshwor07.github.io/Portfolio)]
 
 - 📫 How to reach me **sarbeshworsingh1@gmail.com**
 
